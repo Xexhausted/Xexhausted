@@ -13,7 +13,7 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 
 ---
 
-:bulb: "The only way to truly learn is to break things and put them back together." – Unknown
+:bulb: "The only limits you have are the limits you believe.." 
 
 ---
 
