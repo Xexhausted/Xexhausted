@@ -19,12 +19,12 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 
 Feel free to explore my repositories, drop a star, or connect for collaboration. Let’s hack and learn together!
 <br><br><br>
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/x-exhausted-ba83a6279/)
+
 [![](https://img.shields.io/badge/discord-blue)](@gigal7ight)
 
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/x-exhausted-ba83a6279/) />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
