@@ -13,9 +13,9 @@ int main(){
     scanf("%s",&lisence);
 
     if (age<=21 && lisence=='y'){
-        printf("You are eligible to drive here.");
+        printf("You are eligible to rent a car.");
     }
     else{
-        printf("You are not eligible to drive here.");
+        printf("You are not eligible to rent a car.");
     }
 }
