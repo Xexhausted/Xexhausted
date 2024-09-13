@@ -1,4 +1,4 @@
-#include<stido,g>
+#include<stido.h>
 
 int main(){
 // Allocating constant valuse for PI using define
@@ -13,7 +13,8 @@ int main(){
     scanf("%f", &radius);
 
 // Calculating area of circle and printing it
-    area = PI * radius * radius;
+    radius *= radius
+    area = PI * radius;
     printf("Area of circle = %f", area)
 
 }
