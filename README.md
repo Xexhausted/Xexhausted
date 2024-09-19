@@ -6,7 +6,7 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 
 ---
 
-**Skills and Interests**:
+**🧰 Skills and Interests**:
 - Python (Intermediate Level) & (Learning)
 - Web Exploitation (Learning)
 - CTF (Learning)
