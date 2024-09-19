@@ -9,7 +9,7 @@ Currently, I'm diving deep into **reverse engineering**, uncovering the inner wo
 **Skills and Interests**:
 - Python
 - Web Exploitation (Learning)
-- 
+- CTF (Learning)
 
 ---
 
