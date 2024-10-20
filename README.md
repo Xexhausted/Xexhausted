@@ -22,7 +22,6 @@ Feel free to explore my repositories, drop a star, or connect for collaboration.
 
 ###
 
-<br><br><br>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/sahan-shrestha-xexhausted-ba83a6279/)
 [![](https://img.shields.io/badge/discord-blue)](https://discord.com/users/1106949233237573712)
 
