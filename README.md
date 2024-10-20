@@ -22,10 +22,8 @@ Feel free to explore my repositories, drop a star, or connect for collaboration.
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sahan-shrestha-xexhausted-ba83a6279/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<br><br><br>
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/sahan-shrestha-xexhausted-ba83a6279/)
+[![](https://img.shields.io/badge/discord-blue)](https://discord.com/users/1106949233237573712)
 
 ###
